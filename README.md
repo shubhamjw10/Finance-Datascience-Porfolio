@@ -7,5 +7,8 @@ Quantitative Porfolio Management where I demonstrate how to build a portfolio ba
 ## Project 2:
 Fundamental Stock Analysis where is dig deep in balance sheet analysis and giving stocks in my portfolio score based on Piotroski F-score. 
 
+##Project 3:
+Value investing analysis where I screen stocks based on ROE and EPSG then construct a portfolio using the screened stocks with the help of optimization technique developed in project1.
+
 
 
