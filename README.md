@@ -10,5 +10,8 @@ Fundamental Stock Analysis where is dig deep in balance sheet analysis and givin
 ## Project 3:
 Value investing analysis where I screen stocks based on ROE and EPSG then construct a portfolio using the screened stocks with the help of optimization technique developed in project1.
 
+## Project 4:
+Using the value investment portfolio in project 3 we calculate the beta and alpha of our porfolio and compare it with the benchmark of S&P 500 index. 
+
 
 
