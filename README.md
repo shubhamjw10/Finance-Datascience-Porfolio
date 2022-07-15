@@ -17,7 +17,7 @@ Using the value investment portfolio in project 3 we calculate the beta and alph
 Technical Stock market analysis and back testing strategy based on technical signals. I hardcode technical features instead of using libraries just for fun.
 
 ## Project 6:
-I Create simple machine learning trading strategies such as ols, clustering etc. and backtest them against the becnhmark of buy and hold for currency (EUR/USD).
+I Create simple machine learning trading strategies such as ols, clustering,DNN etc. and backtest them against the becnhmark of buy and hold for currency (EUR/USD).
 
 
 
