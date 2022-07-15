@@ -13,5 +13,11 @@ Value investing analysis where I screen stocks based on ROE and EPSG then constr
 ## Project 4:
 Using the value investment portfolio in project 3 we calculate the beta and alpha of our porfolio and compare it with the benchmark of S&P 500 index. 
 
+## Project 5:
+Technical Stock market analysis and back testing strategy based on technical signals. I hardcode technical features instead of using libraries just for fun.
+
+## Project 6:
+I Create simple machine learning trading strategies such as ols, clustering etc. and backtest them against the becnhmark of buy and hold for currency (EUR/USD).
+
 
 
