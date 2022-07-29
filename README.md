@@ -19,5 +19,6 @@ Technical Stock market analysis and back testing strategy based on technical sig
 ## Project 6:
 I Create simple machine learning trading strategies such as ols, clustering,DNN etc. and backtest them against the becnhmark of buy and hold for currency (EUR/USD).
 
-
+## Project 7:
+Create an eigen portfolio using PCA and then verify the portfolio using hierarchical clustering approach to group the stocks in NASDAQ 100 based on their correlation.  
 
