@@ -22,3 +22,5 @@ I Create simple machine learning trading strategies such as ols, clustering,DNN 
 ## Project 7:
 Create an eigen portfolio using PCA and then verify the portfolio using hierarchical clustering approach to group the stocks in NASDAQ 100 based on their correlation.  
 
+## Project 8:
+I replicate the idea of Ray Dalio's Holy grial of investing idea to create a Minimally Correlated Portfolio using network and graph theory ideas. 
