@@ -25,5 +25,5 @@ Create an eigen portfolio using PCA and then verify the portfolio using hierarch
 ## Project 8 (Holy Grail Of Investing .ipynb):
 I replicate the idea of Ray Dalio's Holy grial of investing to create a Minimally Correlated Portfolio using machine learning. 
 
-## Project 9 (Regime Prediction with Machine Learning)
+## Project 9 (Regime Prediction with Machine Learning.ipynb)
 In this project I try to use various ML models to predict business cycle change using macroeconomics data compiled by FRED.
