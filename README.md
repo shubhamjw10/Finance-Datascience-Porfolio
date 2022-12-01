@@ -1,7 +1,7 @@
 # Finance-Datascience-Porfolio
 This repository displays my work in finance and economics datascience for future employers and collaborators.
 
-## Project 1 (https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Quantitative%20Portfolio%20Management%201.ipynb): 
+## Project 1 [Quantitative Porfolio Management1](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Quantitative%20Portfolio%20Management%201.ipynb): 
 Quantitative Porfolio Management where I demonstrate how to build a portfolio based on Modern Portfolio Theory and explain general concepts related to portfolio optimization.
 
 ## Project 2 (Fundamental Analysis 1.ipynb):
