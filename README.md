@@ -27,3 +27,6 @@ I replicate the idea of Ray Dalio's Holy grial of investing to create a Minimall
 
 ## Project 9 (Regime Prediction with Machine Learning.ipynb)
 In this project I try to use various ML models to predict business cycle change using macroeconomics data compiled by FRED.
+
+## Project 10 (Analysing Bitcoin effect on a classic Portfolio.ipynb):
+In this project we try to analyse the affect of Bitcoin on Classic portfolio of Equities and Gold. We also check if Bitcoin is a good hedge against inflation using CPI data of US.
