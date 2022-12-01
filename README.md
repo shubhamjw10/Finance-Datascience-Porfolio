@@ -13,20 +13,20 @@ Value investing analysis where I screen stocks based on ROE and EPSG then constr
 ## Project 4 [Quantitative Portfolio Management 2](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Quantitative%20Portfolio%20Management%202.ipynb):
 Using the value investment portfolio in project 3 we calculate the beta and alpha of our porfolio and compare it with the benchmark of S&P 500 index. 
 
-## Project 5 [Technical Analysis and Algo. Trading Stratergies 1] (https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Technical%20Analysis%20and%20Algo.%20Trading%20Stratergies%201.ipynb):
+## Project 5 [Technical Analysis and Algo. Trading Stratergies 1](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Technical%20Analysis%20and%20Algo.%20Trading%20Stratergies%201.ipynb):
 Technical Stock market analysis and back testing strategy based on technical signals. I hardcode technical features instead of using libraries just for fun.
 
-## Project 6 [Machine Learning in Trading Strategy 1] (https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Machine%20Learning%20in%20Trading%20Strategy%201.ipynb):
+## Project 6 [Machine Learning in Trading Strategy 1](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Machine%20Learning%20in%20Trading%20Strategy%201.ipynb):
 I Create simple machine learning trading strategies such as ols, clustering,DNN etc. and backtest them against the becnhmark of buy and hold for currency (EUR/USD).
 
-## Project 7 [Eigen Portfolio Construction] (https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Eigen%20Portfolio%20Construction.ipynb):
+## Project 7 [Eigen Portfolio Construction](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Eigen%20Portfolio%20Construction.ipynb):
 Create an eigen portfolio using PCA and then verify the portfolio using hierarchical clustering approach to group the stocks in NASDAQ 100 based on their correlation.  
 
-## Project 8 [Holy Grail Of Investing] (https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Holy%20Grail%20Of%20Investing%20.ipynb):
+## Project 8 [Holy Grail Of Investing](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Holy%20Grail%20Of%20Investing%20.ipynb):
 I replicate the idea of Ray Dalio's Holy grial of investing to create a Minimally Correlated Portfolio using machine learning. 
 
 ## Project 9 [Regime Prediction with Machine Learning](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Regime%20Prediction%20with%20Machine%20Learning.ipynb):
 In this project I try to use various ML models to predict business cycle change using macroeconomics data compiled by FRED.
 
-## Project 10 [Analysing Bitcoin effect on a classic Portfolio] (https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Analysing%20Bitcoin%20effect%20on%20a%20classic%20Portfolio.ipynb):
+## Project 10 [Analysing Bitcoin effect on a classic Portfolio](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Analysing%20Bitcoin%20effect%20on%20a%20classic%20Portfolio.ipynb):
 In this project we try to analyse the affect of Bitcoin on Classic portfolio of Equities and Gold. We also check if Bitcoin is a good hedge against inflation using CPI data of US.
