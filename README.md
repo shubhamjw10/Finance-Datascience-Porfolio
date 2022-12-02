@@ -30,3 +30,6 @@ In this project I try to use various ML models to predict business cycle change 
 
 ## Project 10 [Analysing Bitcoin effect on a classic Portfolio](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Analysing%20Bitcoin%20effect%20on%20a%20classic%20Portfolio.ipynb):
 In this project we try to analyse the affect of Bitcoin on Classic portfolio of Equities and Gold. We also check if Bitcoin is a good hedge against inflation using CPI data of US.
+
+## Project 11 [Pairs Trading using Clustering Methods to find pairs to trade](https://github.com/shubhamjw10/Finance-Datascience-Porfolio/blob/main/Pairs%20Trading-%20finding%20pairs%20based%20on%20Clustering%20.ipynb):
+In this project we use the famous Pairs trading strategy but improve this strategy by using Machine learning Clustering method to find pairs to trade on Nifty 50 stocks. The pairs formed using this method produce good consisitant profits when backtested.
